@@ -1,0 +1,45 @@
+.container__all {
+  background-color: rgb(32, 35, 41);
+  height: 250px;
+  width: 500px;
+  border-radius: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+.container__img {
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.container__name {
+  text-align: right;
+  font-size: 30px;
+  color: white;
+  margin-right: 10px;
+  margin-top: -200px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.container__species {
+  text-align: right;
+  font-size: 30px;
+  color: white;
+  margin-right: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.container__status {
+  text-align: right;
+  font-size: 30px;
+  color: white;
+  margin-right: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.container__gender {
+  text-align: right;
+  font-size: 30px;
+  color: white;
+  margin-right: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}

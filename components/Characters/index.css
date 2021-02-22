@@ -1,0 +1,19 @@
+.container__character {
+  background-color: rgb(49, 47, 47);
+  max-width: 400px;
+  justify-content: space-around;
+}
+
+.name__character {
+  margin-left: 71px;
+  margin-top: 10px;
+  color: white;
+}
+
+.img__character {
+  margin-top: 10px;
+  margin-left: 45px;
+  margin-bottom: 30px;
+}
+.test {
+}

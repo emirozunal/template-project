@@ -1,0 +1,33 @@
+.nav{
+    background-color: rgb(32, 35, 41);
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.home__link{
+    text-decoration: none;
+    color: white;
+}
+.home__option{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.login__link{
+    text-decoration: none;
+    color: white;
+    
+}
+.login__option{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.series__page{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.series__link{
+    text-decoration: none;
+    color: white;
+}
